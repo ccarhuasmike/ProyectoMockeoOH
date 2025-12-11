@@ -1,0 +1,15 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "idCliente": 62372,
+        "uIdCliente": "23ac807b-afd9-4782-a12b-d57f42b826d6",
+        "numDocIdentidad": "90551060",
+        "codTipoDocIdentidad": "01",
+        "desCodTipoDoc": "DNI",
+        "nombresApellidos": "Liliana Andrea Fonseca De Las Casas",
+        "estado": "ACTIVO",
+        "fechaIngreso": "2024-05-31T20:25:33",
+        "fechaActualizacion": "2024-05-31T20:25:33"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "clienteUid": "23ac807b-afd9-4782-a12b-d57f42b826d6",
+        "cuentaUid": "8e37cb30-9dd0-4ffe-b1e2-ae9b5ca1101d",
+        "saldoAbono": 0,
+        "saldoCargo": 0,
+        "saldoTotal": 0
+    }
+}

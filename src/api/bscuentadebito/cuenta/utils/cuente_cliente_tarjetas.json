@@ -1,0 +1,42 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "content": [
+            {
+                "idTarjeta": 47933,
+                "idCuenta": 62370,
+                "token": "2405299000049572",
+                "ultimosDigitos": "7279",
+                "bin": 457339,
+                "tipoTarjeta": "VIRTUAL",
+                "codigoEstado": "01",
+                "descripcionEstado": "ACTIVA",
+                "codigoMotivoEstado": "00",
+                "descripcionMotivoEstado": "ACTIVA",
+                "anteriorCodMotivoBloqueo": null,
+                "descripcionAnteriorMotivoBloqueo": "",
+                "fechaAlta": "2024-05-31T20:25:35",
+                "fechaBaja": "2024-08-08T19:46:31",
+                "enmascarado": "457339******7279"
+            },
+            {
+                "idTarjeta": 47934,
+                "idCuenta": 62370,
+                "token": "2206159000000036",
+                "ultimosDigitos": "0351",
+                "bin": 457339,
+                "tipoTarjeta": "FISICA",
+                "codigoEstado": "01",
+                "descripcionEstado": "ACTIVA",
+                "codigoMotivoEstado": "00",
+                "descripcionMotivoEstado": "ACTIVA",
+                "anteriorCodMotivoBloqueo": null,
+                "descripcionAnteriorMotivoBloqueo": "",
+                "fechaAlta": "2024-05-31T20:31:27",
+                "fechaBaja": "2025-03-20T13:34:20",
+                "enmascarado": "457339******0351"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "listaMotivoBloqueoCuenta": [
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "00",
+                "descripcion": "ACTIVA"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "01",
+                "descripcion": "FRAUDE"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "02",
+                "descripcion": "INACTIVIDAD"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "03",
+                "descripcion": "MANDATO LEGAL"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "04",
+                "descripcion": "DECISIÓN DE CLIENTE"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "05",
+                "descripcion": "DECISIÓN DE LA FOH"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "06",
+                "descripcion": "FALLECIMIENTO"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "07",
+                "descripcion": "TEMPORAL CONTRATO"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "08",
+                "descripcion": "JUDICIAL"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "09",
+                "descripcion": "ALERTA FRAUDE"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "10",
+                "descripcion": "ALERTA PLAFT"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "11",
+                "descripcion": "AFIL NO RECONOCIDA"
+            },
+            {
+                "codigoEstadoCuenta": null,
+                "codigo": "12",
+                "descripcion": "POR ROBO CELULAR"
+            }
+        ]
+    }
+}

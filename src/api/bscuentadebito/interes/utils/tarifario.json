@@ -1,0 +1,8 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "tasaEquivalenteAnual": 2.5,
+        "codigoGrupoCuenta": "A01"
+    }
+}

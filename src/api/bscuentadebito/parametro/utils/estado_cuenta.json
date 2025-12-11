@@ -1,0 +1,24 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "listaEstadoCuenta": [
+            {
+                "codigo": "01",
+                "descripcion": "ACTIVA"
+            },
+            {
+                "codigo": "02",
+                "descripcion": "BLOQUEO TEMPORAL"
+            },
+            {
+                "codigo": "03",
+                "descripcion": "BLOQUEO PERMANENTE"
+            },
+            {
+                "codigo": "04",
+                "descripcion": "CIERRE"
+            }
+        ]
+    }
+}

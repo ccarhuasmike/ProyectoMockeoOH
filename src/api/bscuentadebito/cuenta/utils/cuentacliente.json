@@ -1,0 +1,58 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "content": [
+            {
+                "idCuenta": 62370,
+                "uIdCuenta": "8e37cb30-9dd0-4ffe-b1e2-ae9b5ca1101d",
+                "codTipoCuenta": "01",
+                "idCliente": 62372,
+                "numeroCuenta": "410000622918",
+                "saldoDisponible": 626.57,
+                "saldoContable": 14621.37,
+                "saldoRetenido": 13994.8,
+                "saldoPendiente": 0.0,
+                "codEstadoCuenta": "01",
+                "codigoMotivo": "00",
+                "fechaRegistro": "2024-05-31T20:25:33",
+                "fechaModificacion": "2025-12-01T16:59:14",
+                "anteriorCodEstadoCuenta": null,
+                "anteriorCodigoMotivo": null,
+                "fechaApertura": "2024-05-31T20:25:33",
+                "fechaBaja": null,
+                "producto": "Oh!Pay",
+                "estadoCuenta": "ACTIVA",
+                "anteriorEstadoCuenta": "",
+                "motivoBloqueo": "ACTIVA",
+                "anteriorMotivoBloqueo": "",
+                "numeroCuentaCci": "09400141000062291855"
+            },
+            {
+                "idCuenta": 64829,
+                "uIdCuenta": "4aa6fb4a-77ac-4c71-aaa8-b09be4e52130",
+                "codTipoCuenta": "03",
+                "idCliente": 62372,
+                "numeroCuenta": "310000023759",
+                "saldoDisponible": 46514.71,
+                "saldoContable": 46514.71,
+                "saldoRetenido": 0.0,
+                "saldoPendiente": 0.0,
+                "codEstadoCuenta": "01",
+                "codigoMotivo": "00",
+                "fechaRegistro": "2025-02-12T22:01:36",
+                "fechaModificacion": "2025-12-01T16:59:50",
+                "anteriorCodEstadoCuenta": null,
+                "anteriorCodigoMotivo": null,
+                "fechaApertura": "2024-12-02T00:00:00",
+                "fechaBaja": null,
+                "producto": "AhorraMás Soles",
+                "estadoCuenta": "ACTIVA",
+                "anteriorEstadoCuenta": "",
+                "motivoBloqueo": "ACTIVA",
+                "anteriorMotivoBloqueo": "",
+                "numeroCuentaCci": "09400131000002375959"
+            }
+        ]
+    }
+}

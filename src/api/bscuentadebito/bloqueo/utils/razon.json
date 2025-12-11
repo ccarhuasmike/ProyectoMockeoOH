@@ -1,0 +1,134 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "content": [
+            {
+                "id": {
+                    "codigoRazonCuenta": "00",
+                    "codigoEstadoCuenta": "01"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "01",
+                    "codigoEstadoCuenta": "03"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "01",
+                    "codigoEstadoCuenta": "04"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "02",
+                    "codigoEstadoCuenta": "03"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "02",
+                    "codigoEstadoCuenta": "04"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "03",
+                    "codigoEstadoCuenta": "03"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "03",
+                    "codigoEstadoCuenta": "04"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "04",
+                    "codigoEstadoCuenta": "02"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "04",
+                    "codigoEstadoCuenta": "03"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "04",
+                    "codigoEstadoCuenta": "04"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "05",
+                    "codigoEstadoCuenta": "03"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "05",
+                    "codigoEstadoCuenta": "04"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "06",
+                    "codigoEstadoCuenta": "03"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "06",
+                    "codigoEstadoCuenta": "04"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "07",
+                    "codigoEstadoCuenta": "02"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "08",
+                    "codigoEstadoCuenta": "02"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "09",
+                    "codigoEstadoCuenta": "02"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "10",
+                    "codigoEstadoCuenta": "02"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "11",
+                    "codigoEstadoCuenta": "03"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "11",
+                    "codigoEstadoCuenta": "04"
+                }
+            },
+            {
+                "id": {
+                    "codigoRazonCuenta": "12",
+                    "codigoEstadoCuenta": "02"
+                }
+            }
+        ]
+    }
+}

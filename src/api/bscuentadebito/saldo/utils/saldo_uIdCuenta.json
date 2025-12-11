@@ -1,0 +1,24 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "content": [
+            {
+                "codigoPlan": "01",
+                "idCuenta": 62370,
+                "saldoDisponible": 626.57,
+                "saldoContable": 626.57,
+                "ulitmoSaldoDisponible": 5997.7,
+                "numeroCuenta": null
+            },
+            {
+                "codigoPlan": "02",
+                "idCuenta": 62370,
+                "saldoDisponible": 13994.8,
+                "saldoContable": 13994.8,
+                "ulitmoSaldoDisponible": 0.0,
+                "numeroCuenta": null
+            }
+        ]
+    }
+}

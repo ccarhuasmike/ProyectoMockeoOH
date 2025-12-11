@@ -1,0 +1,54 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "codParametro": 2,
+            "codTabla": 1,
+            "nomTabla": "VARIACION_TIPO_CAMBIO",
+            "codTablaElemento": 2,
+            "desElemento": "VARIACION TIPO CAMBIO COMPRA",
+            "valCadCorto": null,
+            "valCadLargo": null,
+            "valNumEntero": 1,
+            "valNumDecimal": 1.0000000000,
+            "estParametro": 1,
+            "fechaModificacion": "2024-03-06T20:32:27.649",
+            "fechaCreacion": "2024-03-01T03:29:39.170",
+            "usuarioCreacion": "FU72080811",
+            "usuarioModificacion": "FU72080811"
+        },
+        {
+            "codParametro": 1,
+            "codTabla": 1,
+            "nomTabla": "VARIACION_TIPO_CAMBIO",
+            "codTablaElemento": 1,
+            "desElemento": "VARIACION TIPO CAMBIO VENTA",
+            "valCadCorto": null,
+            "valCadLargo": null,
+            "valNumEntero": 1,
+            "valNumDecimal": 1.0000000000,
+            "estParametro": 1,
+            "fechaModificacion": "2024-04-23T12:22:00.567",
+            "fechaCreacion": "2024-03-01T03:29:24.860",
+            "usuarioCreacion": "FU72080811",
+            "usuarioModificacion": "FU72080811"
+        },
+        {
+            "codParametro": 7,
+            "codTabla": 6,
+            "nomTabla": "VARIACION_TIPO_CAMBIO",
+            "codTablaElemento": 3,
+            "desElemento": "CANALES",
+            "valCadCorto": "PUC",
+            "valCadLargo": "SISTEMA PUC",
+            "valNumEntero": 1,
+            "valNumDecimal": 0E-10,
+            "estParametro": 1,
+            "fechaModificacion": "2024-05-09T10:33:19.633",
+            "fechaCreacion": "2024-03-11T12:24:07.999",
+            "usuarioCreacion": "FOH",
+            "usuarioModificacion": "FOH"
+        }
+    ]
+}

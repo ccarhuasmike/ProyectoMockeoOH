@@ -1,0 +1,38 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "codParametro": 122,
+            "codTabla": 13,
+            "nomTabla": "PAIS_ISO",
+            "codTablaElemento": 1,
+            "desElemento": "United States of America (the)",
+            "valCadCorto": "USA",
+            "valCadLargo": null,
+            "valNumEntero": 840,
+            "valNumDecimal": 0,
+            "estParametro": 1,
+            "usuarioCreacion": "BLUP.Roosevelt.Orbegozo@somosoh.pe",
+            "fechaCreacion": "2022-11-03T16:10:18.207",
+            "usuarioModificacion": null,
+            "fechaModificacion": null
+        },
+        {
+            "codParametro": 123,
+            "codTabla": 13,
+            "nomTabla": "PAIS_ISO",
+            "codTablaElemento": 2,
+            "desElemento": "Peru",
+            "valCadCorto": "PER",
+            "valCadLargo": null,
+            "valNumEntero": 604,
+            "valNumDecimal": 0,
+            "estParametro": 1,
+            "usuarioCreacion": "BLUP.Roosevelt.Orbegozo@somosoh.pe",
+            "fechaCreacion": "2022-11-03T16:11:42.44",
+            "usuarioModificacion": null,
+            "fechaModificacion": null
+        }
+    ]
+}

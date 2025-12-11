@@ -1,0 +1,38 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "codParametro": 51,
+            "codTabla": 3,
+            "nomTabla": "TIPO_MONEDA_TRAMA",
+            "codTablaElemento": 2,
+            "desElemento": "TIPO MONEDA TRAMA",
+            "valCadCorto": "USD",
+            "valCadLargo": "DOLARES",
+            "valNumEntero": 840,
+            "valNumDecimal": 0,
+            "estParametro": 1,
+            "usuarioCreacion": "BLUP.Esteban.Castillo@somosoh.pe",
+            "fechaCreacion": "2022-09-22T19:07:18.188",
+            "usuarioModificacion": null,
+            "fechaModificacion": null
+        },
+        {
+            "codParametro": 50,
+            "codTabla": 3,
+            "nomTabla": "TIPO_MONEDA_TRAMA",
+            "codTablaElemento": 1,
+            "desElemento": "TIPO MONEDA TRAMA",
+            "valCadCorto": "PEN",
+            "valCadLargo": "SOLES",
+            "valNumEntero": 604,
+            "valNumDecimal": 0,
+            "estParametro": 1,
+            "usuarioCreacion": "BLUP.Esteban.Castillo@somosoh.pe",
+            "fechaCreacion": "2022-09-22T19:01:14.974",
+            "usuarioModificacion": "BLUP.Esteban.Castillo@somosoh.pe",
+            "fechaModificacion": null
+        }
+    ]
+}

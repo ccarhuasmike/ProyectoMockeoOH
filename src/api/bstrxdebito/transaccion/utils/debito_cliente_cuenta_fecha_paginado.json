@@ -1,0 +1,160 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "paginable": {
+            "offset": 0,
+            "numeroDePagina": 0,
+            "tamanio": 999999000,
+            "noPaginado": false,
+            "sort": {
+                "sorted": true,
+                "unsorted": false,
+                "empty": false
+            }
+        },
+        "sort": {
+            "sorted": true,
+            "unsorted": false,
+            "empty": false
+        },
+        "esUltimo": true,
+        "totalPaginas": 1,
+        "totalElementos": 1,
+        "tamanio": 999999000,
+        "numero": 0,
+        "esPrimero": true,
+        "numeroDeElementos": 1,
+        "esVacio": false,
+        "content": [
+            {
+                "transaccionProcesada": {
+                    "idCuenta": 62370,
+                    "monto": 1.75,
+                    "codigoComercio": "100000000000019",
+                    "fechaConfirmacion": "2025-12-10T21:26:03",
+                    "estadoConfirmacion": "CONFIRMED",
+                    "entryCode": "03",
+                    "groupingCode": "67",
+                    "idTransaccionPadre": null,
+                    "balanceReembolso": "1.75",
+                    "tipoReembolso": null,
+                    "tipoReversa": null,
+                    "reversado": false,
+                    "idTransaccion": 516665,
+                    "metadata": null
+                },
+                "tarjeta": {
+                    "idTarjeta": null,
+                    "idCuenta": null,
+                    "token": null,
+                    "ultimosDigitos": null,
+                    "bin": null,
+                    "tipoTarjeta": null,
+                    "codigoEstado": null,
+                    "descripcionEstado": null,
+                    "codigoMotivoEstado": null,
+                    "descripcionMotivoEstado": null,
+                    "anteriorCodMotivoBloqueo": null,
+                    "descripcionAnteriorMotivoBloqueo": null,
+                    "fechaAlta": null,
+                    "fechaBaja": null,
+                    "enmascarado": null
+                },
+                "idTransaccion": 516665,
+                "codigoTipoMensaje": "1100",
+                "codigoOperacion": "35",
+                "uIdreferenciaExterna": "139846946440490076",
+                "descOrigen": "10",
+                "fechaTransaccion": "2025-12-10T21:26:03",
+                "descRequerimiento": "{\"externalReference\":\"139846946440490076\",\"amount\":1.75,\"messageType\":\"1100\",\"operationCode\":\"35\",\"groupingCode\":\"67\",\"entryCode\":\"03\",\"commerceCode\":\"100000000000019\",\"commerceName\":\"CCE\",\"commerceTerminalId\":\"101\",\"commerceDateTime\":\"2025-12-10T16:24:04.049+00:00\",\"commerceTransactionNumber\":1,\"commerceTrxDescription\":\"TRXMSCPAY\",\"customInt1\":0,\"customInt2\":0,\"customDec1\":0.0,\"customDec2\":0.0,\"customStr1\":\"0\",\"customStr2\":\"0\",\"originAccountData\":{\"principalName\":\"PRUEBA CE PRUEBA PRUEBA\",\"identDocType\":\"2\",\"identDocNumber\":\"000335447\",\"accountNumber\":\"00219317000234904212\",\"entityCode\":\"002\",\"cellPhoneNumber\":\"\"},\"destinationAccountData\":{\"principalName\":\"Liliana Andrea Fonseca De Las Casas\",\"identDocType\":\"1\",\"identDocNumber\":\"90551060\",\"accountNumber\":\"09400141000062291855\",\"entityCode\":\"094\",\"cellPhoneNumber\":\"952952240\"},\"commissionOverride\":null,\"notificationOverride\":true,\"commissionFree\":false,\"dataElements\":null,\"customerUID\":\"23ac807b-afd9-4782-a12b-d57f42b826d6\",\"accountUID\":\"8e37cb30-9dd0-4ffe-b1e2-ae9b5ca1101d\",\"refundParentExternalReference\":null,\"refundParentAuthorizationCode\":null,\"refundParentOrigin\":null}",
+                "descRespuesta": "{\"ftcCode\":\"1100356703\",\"ftcDescription\":\"Abono por TIN Inmediata Otro Titular\",\"financialTransaction\":{\"transactionId\":516665,\"accountId\":62370,\"entCode\":\"03\",\"groupingCode\":\"67\",\"parentTransactionId\":null,\"amount\":1.75,\"confirmationDate\":\"2025-12-10T21:26:03.619+00:00\",\"confirmationStatus\":\"CONFIRMED\",\"refundBalance\":1.75,\"refundType\":null,\"reversalType\":null,\"reversed\":false,\"commerceCode\":\"100000000000019\",\"confirmationReqUser\":null,\"confirmationReqTimestamp\":\"2025-12-10T21:26:03.619+00:00\",\"metadata\":{\"authorizationMetadata\":null,\"confirmationMetadata\":null}}}",
+                "estadoAutorizacion": "AUTHORIZED",
+                "codigoAutorizacion": "C6C8A8",
+                "codEstadoTransaccion": "00",
+                "motivoTransaccion": "OK",
+                "numeroOperacion": 68,
+                "fechaRegistroOperacion": "2025-12-10T00:00:00",
+                "apiUser": "upforigin10",
+                "transaccionRequest": {
+                    "dataElements": null,
+                    "token": null,
+                    "customerUID": "23ac807b-afd9-4782-a12b-d57f42b826d6",
+                    "accountUID": "8e37cb30-9dd0-4ffe-b1e2-ae9b5ca1101d",
+                    "messageType": "1100",
+                    "operationCode": "35",
+                    "groupingCode": "67",
+                    "entryCode": "03",
+                    "externalReference": "139846946440490076",
+                    "amount": 1.75,
+                    "commerceCode": "100000000000019",
+                    "commerceName": "CCE",
+                    "commerceTerminalId": "101",
+                    "commerceDateTime": "2025-12-10T16:24:04.049+00:00",
+                    "commerceTransactionNumber": 1,
+                    "commerceTrxDescription": "TRXMSCPAY",
+                    "customInt1": 0,
+                    "customInt2": 0,
+                    "customStr1": "0",
+                    "customStr2": "0",
+                    "customDec1": 0,
+                    "customDec2": 0,
+                    "commissionFree": false,
+                    "refundParentExternalReference": null,
+                    "refundParentAuthorizationCode": null,
+                    "refundParentOrigin": null,
+                    "originAccountData": {
+                        "principalName": "PRUEBA CE PRUEBA PRUEBA",
+                        "identDocType": "2",
+                        "identDocNumber": "000335447",
+                        "accountNumber": "00219317000234904212",
+                        "entityCode": "002",
+                        "cellPhoneNumber": ""
+                    },
+                    "destinationAccountData": {
+                        "principalName": "Liliana Andrea Fonseca De Las Casas",
+                        "identDocType": "1",
+                        "identDocNumber": "90551060",
+                        "accountNumber": "09400141000062291855",
+                        "entityCode": "094",
+                        "cellPhoneNumber": "952952240"
+                    },
+                    "commissionOverride": null,
+                    "notificationOverride": "true"
+                },
+                "transaccionResponse": {
+                    "ftcCode": "1100356703",
+                    "ftcDescription": "Abono por TIN Inmediata Otro Titular",
+                    "financialTransaction": {
+                        "transactionId": 516665,
+                        "accountId": 62370,
+                        "entCode": "03",
+                        "groupingCode": "67",
+                        "parentTransactionId": null,
+                        "amount": "1.75",
+                        "confirmationDate": "2025-12-10T21:26:03.619+00:00",
+                        "confirmationStatus": "CONFIRMED",
+                        "refundBalance": "1.75",
+                        "refundType": null,
+                        "reversalType": null,
+                        "reversed": false,
+                        "commerceCode": "100000000000019",
+                        "confirmationReqUser": null,
+                        "confirmationReqTimestamp": "2025-12-10T21:26:03.619+00:00",
+                        "metadata": {
+                            "authorizationMetadata": null,
+                            "confirmationMetadata": null
+                        }
+                    }
+                },
+                "codigoEstadoOrigen": null,
+                "uidCuenta": "8e37cb30-9dd0-4ffe-b1e2-ae9b5ca1101d",
+                "reversado": false,
+                "descripcionReversa": null,
+                "metaData": null,
+                "estadoConfirmacion": "CONFIRMED",
+                "fechaConfirmacion": "2025-12-10T21:26:03"
+            }
+        ]
+    }
+}

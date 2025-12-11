@@ -1,0 +1,16 @@
+require("dotenv").config();
+const express = require("express");
+const cors = require("cors");
+const app = express();
+app.use(cors());
+app.use(express.json());
+
+// Rutas
+app.use("/api/bsclientedebito", require("./src/api/bsclientedebito/index"));
+app.use("/api/bscuentadebito", require("./src/api/bscuentadebito/index"));
+app.use("/api/bstrxdebito", require("./src/api/bstrxdebito/index"));
+app.use("/api/bstasacambio", require("./src/api/bstasacambio/index"));
+
+app.listen(3000, () => console.log("Servidor en puerto 3000"));
+
+

@@ -1,0 +1,38 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "codParametro": 136,
+            "codTabla": 18,
+            "nomTabla": "TIPO_DOCUMENTO",
+            "codTablaElemento": 1,
+            "desElemento": "DOCUMENTO NACIONAL DE IDENTIDAD",
+            "valCadCorto": "DNI",
+            "valCadLargo": null,
+            "valNumEntero": 1,
+            "valNumDecimal": 0,
+            "estParametro": 1,
+            "usuarioCreacion": "BLUP.Esteban.Castillo@somosoh.pe",
+            "fechaCreacion": "2023-08-16T18:09:56.729",
+            "usuarioModificacion": null,
+            "fechaModificacion": null
+        },
+        {
+            "codParametro": 137,
+            "codTabla": 18,
+            "nomTabla": "TIPO_DOCUMENTO",
+            "codTablaElemento": 2,
+            "desElemento": "CARNET DE EXTRANJERIA",
+            "valCadCorto": "CE",
+            "valCadLargo": null,
+            "valNumEntero": 2,
+            "valNumDecimal": 0,
+            "estParametro": 1,
+            "usuarioCreacion": "BLUP.Esteban.Castillo@somosoh.pe",
+            "fechaCreacion": "2023-08-16T18:10:54.773",
+            "usuarioModificacion": null,
+            "fechaModificacion": null
+        }
+    ]
+}

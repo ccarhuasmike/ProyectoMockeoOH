@@ -1,0 +1,22 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "saldoTotalCapital": 0.0,
+        "saldoTotalInteres": 0.0,
+        "planes": [
+            {
+                "tipo": "PLAN 1",
+                "codigoPlan": "01",
+                "capital": 0.0,
+                "interes": 0.0
+            },
+            {
+                "tipo": "PLAN 2",
+                "codigoPlan": "02",
+                "capital": 0.0,
+                "interes": 0.0
+            }
+        ]
+    }
+}

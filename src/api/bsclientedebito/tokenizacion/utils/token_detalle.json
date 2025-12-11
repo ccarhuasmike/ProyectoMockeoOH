@@ -1,0 +1,45 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "parentCardId": null,
+        "digitalCardId": "DNITHE302509701002503236",
+        "panSuffix": "0548",
+        "state": "DELETED",
+        "type": "HCE",
+        "schemeCardId": "V-5825097010021548558414",
+        "deviceBindingList": [],
+        "provisioningTime": "2025-04-07T00:16:52.976Z",
+        "lastReplenishTime": null,
+        "lastStateChangeTime": "2025-12-11T13:59:48.215Z",
+        "digitalCardRequestorInformation": {
+            "id": "40010075001",
+            "walletId": null,
+            "name": null,
+            "tspId": null,
+            "originalDigitalCardRequestorId": null,
+            "recommendation": "GREEN"
+        },
+        "deviceInformation": {
+            "deviceId": "MsIv1rtHdsPkT1jLPS-76gcM",
+            "digitalCardStorageType": "HCE",
+            "manufacturer": "OPPO",
+            "brand": "OPPO",
+            "model": "CPH2603",
+            "osVersion": "14",
+            "firmwareVersion": null,
+            "phoneNumber": null,
+            "fourLastDigitPhoneNumber": null,
+            "deviceName": "OPPO - CPH2603",
+            "deviceParentId": null,
+            "language": "spa",
+            "serialNumber": "7D",
+            "timeZone": "Ameri",
+            "timeZoneSetting": "NETWORK_SET",
+            "simSerialNumber": "7D",
+            "IMEI": null,
+            "networkOperator": null,
+            "networkType": null
+        }
+    }
+}

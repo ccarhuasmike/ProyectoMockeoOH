@@ -1,0 +1,90 @@
+{
+    "data": {
+        "listaMotivoBloqueoTarjeta": [
+            {
+                "codigo": "00",
+                "descripcion": "ACTIVA",
+                "codigoEstadoTarjeta": "01",
+                "codigoExterno": "A"
+            },
+            {
+                "codigo": "02",
+                "descripcion": "ROBO",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "X"
+            },
+            {
+                "codigo": "03",
+                "descripcion": "FRAUDE",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "F"
+            },
+            {
+                "codigo": "04",
+                "descripcion": "TRANS. NO RECONOCIDA",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "Q"
+            },
+            {
+                "codigo": "05",
+                "descripcion": "AFIL. NO RECONOCIDA",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "B"
+            },
+            {
+                "codigo": "06",
+                "descripcion": "PERDIDA",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "E"
+            },
+            {
+                "codigo": "07",
+                "descripcion": "DETERIORO",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "G"
+            },
+            {
+                "codigo": "08",
+                "descripcion": "RETENIDA ATM",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "N"
+            },
+            {
+                "codigo": "09",
+                "descripcion": "FALLECIMIENTO",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "L"
+            },
+            {
+                "codigo": "10",
+                "descripcion": "TEMPORAL TARJETA BO",
+                "codigoEstadoTarjeta": "02",
+                "codigoExterno": "K"
+            },
+            {
+                "codigo": "11",
+                "descripcion": "ALERTA PREVENCIÓN",
+                "codigoEstadoTarjeta": "02",
+                "codigoExterno": "T"
+            },
+            {
+                "codigo": "12",
+                "descripcion": "DECISIÓN DE CLIENTE",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "I"
+            },
+            {
+                "codigo": "13",
+                "descripcion": "DECISIÓN DE LA FOH",
+                "codigoEstadoTarjeta": "03",
+                "codigoExterno": "Y"
+            },
+            {
+                "codigo": "99",
+                "descripcion": "INACTIVA",
+                "codigoEstadoTarjeta": "00",
+                "codigoExterno": "R"
+            }
+        ]
+    }
+}

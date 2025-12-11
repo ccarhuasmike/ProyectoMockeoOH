@@ -1,0 +1,11 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "idTarjeta": 47933,
+        "disposicionEfectivo": false,
+        "comprasInternet": true,
+        "comprasInternacionales": true,
+        "habilitacionUsoGeneral": true
+    }
+}

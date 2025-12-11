@@ -1,0 +1,20 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "content": [
+            {
+                "codigo": "01",
+                "nombre": "DNI"
+            },
+            {
+                "codigo": "02",
+                "nombre": "Carnet Extranjeria"
+            },
+            {
+                "codigo": "03",
+                "nombre": "RUC"
+            }
+        ]
+    }
+}

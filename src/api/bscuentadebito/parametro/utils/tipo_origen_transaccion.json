@@ -1,0 +1,72 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "listaOrigenTransaccion": [
+            {
+                "codigo": "00",
+                "descripcion": "Auditoria"
+            },
+            {
+                "codigo": "01",
+                "descripcion": "AgoraApp"
+            },
+            {
+                "codigo": "02",
+                "descripcion": "IziPay"
+            },
+            {
+                "codigo": "03",
+                "descripcion": "QR"
+            },
+            {
+                "codigo": "04",
+                "descripcion": "Back Office"
+            },
+            {
+                "codigo": "05",
+                "descripcion": "BO ABA"
+            },
+            {
+                "codigo": "06",
+                "descripcion": "BO Agora"
+            },
+            {
+                "codigo": "07",
+                "descripcion": "Procesamiento"
+            },
+            {
+                "codigo": "08",
+                "descripcion": "Middleware"
+            },
+            {
+                "codigo": "09",
+                "descripcion": "APP OH"
+            },
+            {
+                "codigo": "10",
+                "descripcion": "CCE"
+            },
+            {
+                "codigo": "11",
+                "descripcion": "Monitor"
+            },
+            {
+                "codigo": "12",
+                "descripcion": "API FOh"
+            },
+            {
+                "codigo": "13",
+                "descripcion": "API interes"
+            },
+            {
+                "codigo": "14",
+                "descripcion": "PGO"
+            },
+            {
+                "codigo": "15",
+                "descripcion": "Paye"
+            }
+        ]
+    }
+}
