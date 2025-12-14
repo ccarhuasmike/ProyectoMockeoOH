@@ -1,0 +1,18 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "id": 27145,
+        "correlationId": "585225569943314",
+        "consumerId": "0000551000029600341",
+        "otp": "327413",
+        "digitalCardRequestorId": "40010075001",
+        "digitalCardRequestorWalletId": null,
+        "digitalCardRequestorName": null,
+        "digitalCardRequestorTspid": null,
+        "deliveryChannel": "SMS",
+        "dataChannel": "975752548",
+        "objectOriginal": "IziPayCorrelationRequest{consumerId='0000551000029600341', deliveryChannel='SMS', panSuffix='4135', otp=OtpDetailCorrelation{expirationDate='2025-08-13T15:55:21.000Z', value='327413', reason='CARD-DIGITIZATION'}, digitalCardRequestor=DigitalCardRequestorInformation{id='40010075001', walletId='null', name='null', tspId='null', originalDigitalCardRequestorId='null', recommendation='null'}, deviceInformation=DeviceInformationOtp{deviceName='default', digitalCardStorageType='HCE', phoneNumber='975752548'}, threeDSDetails=null},correlationId= 585225569943314",
+        "creationDate": "13/08/2025 15:50:22"
+    }
+}

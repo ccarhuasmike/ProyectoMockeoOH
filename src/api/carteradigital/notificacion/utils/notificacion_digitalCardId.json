@@ -1,0 +1,30 @@
+{
+    "codigo": 0,
+    "mensaje": "Ok",
+    "data": [
+        {
+            "operationId": "585225569943314",
+            "registroCarteraDigitalId": 303522,
+            "operation": "DIGITIZE",
+            "digitalCardId": "DNITHE582522556994333177",
+            "status": "SUCCESSFUL",
+            "fechaCreacion": "2025-08-13T15:55:51.000+00:00",
+            "fechaActualizacion": "2025-08-13T15:55:51.000+00:00",
+            "correlationId": "585225569943314",
+            "digitalRequestorId": null,
+            "detailObj": null
+        },
+        {
+            "operationId": "af443563-9dfa-404c-bade-72c454f58f35",
+            "registroCarteraDigitalId": 303522,
+            "operation": "DELETE",
+            "digitalCardId": "DNITHE582522556994333177",
+            "status": "SUCCESSFUL",
+            "fechaCreacion": "2025-08-27T13:50:59.000+00:00",
+            "fechaActualizacion": "2025-08-27T13:50:59.000+00:00",
+            "correlationId": "af443563-9dfa-404c-bade-72c454f58f35",
+            "digitalRequestorId": null,
+            "detailObj": null
+        }
+    ]
+}
