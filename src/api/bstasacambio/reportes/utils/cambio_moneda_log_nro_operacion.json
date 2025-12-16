@@ -1,0 +1,71 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "tipoDocIdentidad": "1",
+            "numeroDocIdentidad": "30170750",
+            "nroCambioMonedaOperacion": "139851886534840048",
+            "fechaRegistro": "2025-12-16T09:37:38.20851",
+            "idCambioMonedaOperacion": 3769,
+            "descripcionLarga": "CAMBIO MONEDA REALIZADO",
+            "codigoEstado": "09",
+            "fechaConfirmacionUsuario": null,
+            "nroOperacionCuentaOrigen": "139851886534830046",
+            "nroOperacionCuentaDestino": "139851886534830047",
+            "usuarioRegistro": "APP OH - ANDROID"
+        },
+        {
+            "tipoDocIdentidad": "1",
+            "numeroDocIdentidad": "30170750",
+            "nroCambioMonedaOperacion": "139851886534840048",
+            "fechaRegistro": "2025-12-16T09:37:38.104963",
+            "idCambioMonedaOperacion": 3769,
+            "descripcionLarga": "REGISTRO OPERACION FIRBID",
+            "codigoEstado": "07",
+            "fechaConfirmacionUsuario": null,
+            "nroOperacionCuentaOrigen": "139851886534830046",
+            "nroOperacionCuentaDestino": "139851886534830047",
+            "usuarioRegistro": "APP OH - ANDROID"
+        },
+        {
+            "tipoDocIdentidad": "1",
+            "numeroDocIdentidad": "30170750",
+            "nroCambioMonedaOperacion": "139851886534840048",
+            "fechaRegistro": "2025-12-16T09:37:36.887224",
+            "idCambioMonedaOperacion": 3769,
+            "descripcionLarga": "SOLICITUD DE ABONO",
+            "codigoEstado": "05",
+            "fechaConfirmacionUsuario": null,
+            "nroOperacionCuentaOrigen": "139851886534830046",
+            "nroOperacionCuentaDestino": "139851886534830047",
+            "usuarioRegistro": "APP OH - ANDROID"
+        },
+        {
+            "tipoDocIdentidad": "1",
+            "numeroDocIdentidad": "30170750",
+            "nroCambioMonedaOperacion": "139851886534840048",
+            "fechaRegistro": "2025-12-16T09:37:35.378751",
+            "idCambioMonedaOperacion": 3769,
+            "descripcionLarga": "SOLICITUD DE RETIRO",
+            "codigoEstado": "03",
+            "fechaConfirmacionUsuario": null,
+            "nroOperacionCuentaOrigen": "139851886534830046",
+            "nroOperacionCuentaDestino": "139851886534830047",
+            "usuarioRegistro": "APP OH - ANDROID"
+        },
+        {
+            "tipoDocIdentidad": "1",
+            "numeroDocIdentidad": "30170750",
+            "nroCambioMonedaOperacion": "139851886534840048",
+            "fechaRegistro": "2025-12-16T09:37:33.692639",
+            "idCambioMonedaOperacion": 3769,
+            "descripcionLarga": "REGISTRO DE CAMBIO MONEDA",
+            "codigoEstado": "01",
+            "fechaConfirmacionUsuario": null,
+            "nroOperacionCuentaOrigen": "139851886534830046",
+            "nroOperacionCuentaDestino": "139851886534830047",
+            "usuarioRegistro": "APP OH - ANDROID"
+        }
+    ]
+}

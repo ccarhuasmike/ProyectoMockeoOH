@@ -9,7 +9,5 @@ router.use("/v1/interes", require("./interes/interes.routes"));
 router.use("/v1/saldo", require("./saldo/saldo.routes"));
 router.use("/v1/ajuste", require("./ajuste/ajuste.routes"));
 router.use("/v1/tarjeta", require("./tarjeta/tarjeta.routes"));
-
-
 module.exports = router;
 

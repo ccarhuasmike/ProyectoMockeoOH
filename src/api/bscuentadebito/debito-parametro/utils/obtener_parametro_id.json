@@ -1,0 +1,20 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "codParametro": 54,
+        "codTabla": 4,
+        "nomTabla": "BANCO_EHOST",
+        "codTablaElemento": 3,
+        "desElemento": "BANCO EHOST",
+        "valCadCorto": "",
+        "valCadLargo": "INTERBANK",
+        "valNumEntero": 0,
+        "valNumDecimal": 0,
+        "estParametro": 1,
+        "usuarioCreacion": "BLUP.Esteban.Castillo@somosoh.pe",
+        "fechaCreacion": "2022-09-22T19:09:53.377",
+        "usuarioModificacion": null,
+        "fechaModificacion": null
+    }
+}

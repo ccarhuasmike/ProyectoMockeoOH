@@ -1,0 +1,78 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "idBanco": 2,
+            "codigo": "01",
+            "nombre": "Bank DevU",
+            "usuarioRegistro": "hrcp.eduardo.gonzales@somosoh.pe",
+            "fechaRegistro": "2024-02-27T17:30:46.754",
+            "fechaActualizacion": "2024-03-05T09:37:51.133"
+        },
+        {
+            "idBanco": 1,
+            "codigo": "222",
+            "nombre": "bank updated2",
+            "usuarioRegistro": "hrcp.eduardo.gonzales@somosoh.pe",
+            "fechaRegistro": "2024-02-27T16:11:49.084",
+            "fechaActualizacion": "2024-03-06T11:42:16.948"
+        },
+        {
+            "idBanco": 4,
+            "codigo": "44",
+            "nombre": "JCP",
+            "usuarioRegistro": "HRCP.Eduardo.Gonzales@somosoh.pe",
+            "fechaRegistro": "2024-03-06T11:42:35.506",
+            "fechaActualizacion": null
+        },
+        {
+            "idBanco": 5,
+            "codigo": "02",
+            "nombre": "BCP",
+            "usuarioRegistro": "HRCP.Eduardo.Gonzales@somosoh.pe",
+            "fechaRegistro": "2024-03-19T20:11:15.038",
+            "fechaActualizacion": null
+        },
+        {
+            "idBanco": 6,
+            "codigo": "33",
+            "nombre": "Banco prueba",
+            "usuarioRegistro": "Edgar.Sanchez@somosoh.pe",
+            "fechaRegistro": "2024-03-25T16:44:46.069",
+            "fechaActualizacion": "2024-03-25T16:44:57.505"
+        },
+        {
+            "idBanco": 7,
+            "codigo": "100",
+            "nombre": "BANCO PRUEBA 2",
+            "usuarioRegistro": "Wilmer.Bello@somosoh.pe",
+            "fechaRegistro": "2024-04-04T17:31:56.905",
+            "fechaActualizacion": null
+        },
+        {
+            "idBanco": 8,
+            "codigo": "035",
+            "nombre": "BANCO PICHINCHA",
+            "usuarioRegistro": "HRCP.Yudith.Hinostroza@somosoh.pe",
+            "fechaRegistro": "2025-04-24T16:41:44.563703",
+            "fechaActualizacion": null
+        },
+        {
+            "idBanco": 3,
+            "codigo": "03",
+            "nombre": "INTERBANK-2",
+            "usuarioRegistro": "HRCP.Eduardo.Gonzales@somosoh.pe",
+            "fechaRegistro": "2024-02-27T18:26:53.962",
+            "fechaActualizacion": "2025-09-10T21:37:00.89217"
+        },
+        {
+            "idBanco": 9,
+            "codigo": "0099",
+            "nombre": "FINANCIERA CONFIANZA",
+            "usuarioRegistro": "Lourdes.Casanova@somosoh.pe",
+            "fechaRegistro": "2025-11-05T17:15:57.023779",
+            "fechaActualizacion": "2025-11-05T17:16:25.460455"
+        }
+    ]
+}

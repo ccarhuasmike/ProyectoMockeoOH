@@ -1,14 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-exports.nomTabla = async (req, res) => {
-    let filePath = "";
-    switch (req.params.nomTabla) {
-        case 'VARIACION_TIPO_CAMBIO':
-            filePath = path.join(__dirname, 'utils', 'variacion_tipo_cambio.json');
-            break;
-    }
+exports.estado = async (req, res) => {
 
+    const filePath = path.join(__dirname, 'utils', 'estado.json');
     console.log('File Path:', filePath);
     fs.readFile(filePath, 'utf8', (error, data) => {
         if (error) {
@@ -31,9 +26,9 @@ exports.nomTabla = async (req, res) => {
         }
     });
 };
-exports.parametro = async (req, res) => {   
-    const filePath = path.join(__dirname, 'utils', 'parametro.json');
+exports.moneda_campana_con_estado = async (req, res) => {
 
+    const filePath = path.join(__dirname, 'utils', 'moneda_campana_con_estado.json');
     console.log('File Path:', filePath);
     fs.readFile(filePath, 'utf8', (error, data) => {
         if (error) {
@@ -56,3 +51,4 @@ exports.parametro = async (req, res) => {
         }
     });
 };
+
