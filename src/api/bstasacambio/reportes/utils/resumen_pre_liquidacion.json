@@ -1,0 +1,24 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "totalDolaresTcCompraOh": 1000.00,
+            "totalDolaresTcVentaOh": 1000.00,
+            "totalSolesTcVentaOh": 4600.00,
+            "totalSolesTcCompraOh": 2560.00,
+            "totalDolaresTcCompraPartner": 1000.00,
+            "totalDolaresTcVentaPartner": 1000.00,
+            "totalSolesTcVentaPartner": 3600.00,
+            "totalSolesTcCompraPartner": 3560.00,
+            "totalSpreadCompraOh": 1000.00,
+            "totalSpreadVentaOh": 1000.00,
+            "monedaRecibirPartner": null,
+            "netoRecibirPartner": 0.00,
+            "monedaEnviarPartner": 604,
+            "netoEnviarPartner": 40.00,
+            "idPartner": 1,
+            "idCambioMonedaPreLiqDiariaRes": 1
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": [
+        {
+            "idCambioMonedaCamOpeRes": 39,
+            "idCambioMonedaOperacion": 3083,
+            "fechaOperacion": "2025-08-01",
+            "importeCampana": 60.00,
+            "spreadCompraOh": -9.06,
+            "spreadVentaOh": 0.00,
+            "usuarioRegistro": "APP OH - ANDROID",
+            "fechaRegistro": "2025-08-01T09:44:57.048874",
+            "idCambioMonedaCamOpeDet": 107
+        },
+        {
+            "idCambioMonedaCamOpeRes": 39,
+            "idCambioMonedaOperacion": 3084,
+            "fechaOperacion": "2025-08-01",
+            "importeCampana": 75.50,
+            "spreadCompraOh": 0.00,
+            "spreadVentaOh": -15.25,
+            "usuarioRegistro": "APP OH - ANDROID",
+            "fechaRegistro": "2025-08-01T09:46:26.671836",
+            "idCambioMonedaCamOpeDet": 108
+        },
+        {
+            "idCambioMonedaCamOpeRes": 39,
+            "idCambioMonedaOperacion": 3085,
+            "fechaOperacion": "2025-08-01",
+            "importeCampana": 52.50,
+            "spreadCompraOh": -7.92,
+            "spreadVentaOh": 0.00,
+            "usuarioRegistro": "APP OH - ANDROID",
+            "fechaRegistro": "2025-08-01T09:47:41.316682",
+            "idCambioMonedaCamOpeDet": 109
+        },
+        {
+            "idCambioMonedaCamOpeRes": 39,
+            "idCambioMonedaOperacion": 3086,
+            "fechaOperacion": "2025-08-01",
+            "importeCampana": 45.00,
+            "spreadCompraOh": 0.00,
+            "spreadVentaOh": -9.09,
+            "usuarioRegistro": "APP OH - ANDROID",
+            "fechaRegistro": "2025-08-01T09:49:06.916499",
+            "idCambioMonedaCamOpeDet": 110
+        },
+        {
+            "idCambioMonedaCamOpeRes": 39,
+            "idCambioMonedaOperacion": 3087,
+            "fechaOperacion": "2025-08-01",
+            "importeCampana": 25.90,
+            "spreadCompraOh": -3.91,
+            "spreadVentaOh": 0.00,
+            "usuarioRegistro": "APP OH - ANDROID",
+            "fechaRegistro": "2025-08-01T09:50:37.27403",
+            "idCambioMonedaCamOpeDet": 111
+        },
+        {
+            "idCambioMonedaCamOpeRes": 39,
+            "idCambioMonedaOperacion": 3088,
+            "fechaOperacion": "2025-08-01",
+            "importeCampana": 20.00,
+            "spreadCompraOh": 0.00,
+            "spreadVentaOh": -4.04,
+            "usuarioRegistro": "APP OH - ANDROID",
+            "fechaRegistro": "2025-08-01T10:00:23.207647",
+            "idCambioMonedaCamOpeDet": 112
+        },
+        {
+            "idCambioMonedaCamOpeRes": 39,
+            "idCambioMonedaOperacion": 3089,
+            "fechaOperacion": "2025-08-01",
+            "importeCampana": 3.61,
+            "spreadCompraOh": 0.00,
+            "spreadVentaOh": -0.73,
+            "usuarioRegistro": "APP OH - ANDROID",
+            "fechaRegistro": "2025-08-01T10:34:43.188537",
+            "idCambioMonedaCamOpeDet": 113
+        }
+    ]
+}
