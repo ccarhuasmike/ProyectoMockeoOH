@@ -14,6 +14,7 @@ app.use("/api/carteradigital", require("./src/api/carteradigital/index"));
 app.use("/api/public", require("./src/api/public/index"));
 app.use("/api/bsctasahorros", require("./src/api/bsctasahorros/index"));
 app.use("/api/bsutilsahorros", require("./src/api/bsutilsahorros/index"));
+app.use("/api/bsbloqueosmasivosohpay", require("./src/api/bsbloqueosmasivosohpay/index"));
 
 app.listen(3000, () => console.log("Servidor en puerto 3000"));
 

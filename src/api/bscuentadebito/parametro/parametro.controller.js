@@ -77,7 +77,7 @@ exports.motivo_bloqueo_tarjeta = async (req, res) => {
 };
 exports.estado_tarjeta = async (req, res) => {  
       
-    const filePath = path.join(__dirname, 'utils', 'motivo_bloqueo_tarjeta.json');
+    const filePath = path.join(__dirname, 'utils', 'estado_tarjeta.json');
     console.log('File Path:', filePath);    
     fs.readFile(filePath, 'utf8', (error, data) => {
         if (error) {
