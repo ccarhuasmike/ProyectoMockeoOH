@@ -1,1 +1,23 @@
-{"codigo":1,"mensaje":"El ajuste con id transaccion: 516665  no existe."}
+{
+    "codigo": 0,
+    "mensaje": "OK",
+    "data": {
+        "idAjuste": 2320,
+        "nroOperacion": 93,
+        "numeroCuenta": "8e37cb30-9dd0-4ffe-b1e2-ae9b5ca1101d",
+        "rutaSustento": "",
+        "nombreSustento": null,
+        "archivoSustento": null,
+        "referencia": "Referencia",
+        "glosa": "Glosa",
+        "estadoAjuste": 1,
+        "fechaAjuste": null,
+        "tipoAjuste": "1",
+        "tipoFactura": "3",
+        "usuarioCreacion": "HRCP.Segundo.Ccarhuas@somosoh.pe",
+        "descTipoAjuste": "ABONO",
+        "descTipoFactura": "",
+        "idTransaccion": 501326,
+        "codigoComercio": "100000000000010"
+    }
+}
